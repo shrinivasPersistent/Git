@@ -1,2 +1,11 @@
+
 hel new text asds master branch changes
 Changes on master now.
+
+
+
+
+conflict fix now
+hel new text change for bug 2
+change 3 also
+

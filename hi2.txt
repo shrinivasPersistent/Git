@@ -1,12 +1,19 @@
 
 hel new text asds master branch changes ""Master Changes""
+
+
 Changes on master now.
 
 
+hel new text asds master branch changes """Enhancement1 changes"""
 
 
 conflict fix now
 hel new text change for bug 2
 change 3 also
 
+
 Master Changes.
+
+Enhancement 1 changes
+

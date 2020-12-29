@@ -22,6 +22,6 @@ Enhancement 1 changes
 some change for remote repo
 
 
-Change on the remote for pull demo, new change for rebas demo conflict
 
-New change for rebase conflict demo
+Change on the remote for pull demo, local change to test remote rebase conflict
+
